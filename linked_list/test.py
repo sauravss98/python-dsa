@@ -1,4 +1,6 @@
-from LinkedList import LinkedList
+"""  Test File
+"""
+from linked_list.linked_list import LinkedList
 
 linked_list = LinkedList(1)
 linked_list.append(2)
