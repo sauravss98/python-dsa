@@ -10,5 +10,5 @@ class Node:
         """Sets the next node"""
         self.next = next_node
     def get_next(self):
-        """Returns the next node"""
+        """Returns the next node """
         return self.next
